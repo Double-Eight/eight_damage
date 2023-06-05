@@ -2,7 +2,7 @@ fx_version 'adamant'
 
 game 'gta5'
 
-author '💀𝕯𝖔𝖚𝖇𝖑𝖊_𝕰𝖎𝖌𝖍𝖙💀#8888'
+author '💀𝕯𝖔𝖚𝖇𝖑𝖊_𝕰𝖎𝖌𝖍𝖙💀#8888' -- https://discord.gg/kJjpDTKWn7 
 
 description 'eight_damage'
 
