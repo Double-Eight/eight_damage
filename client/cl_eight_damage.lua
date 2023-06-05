@@ -51,7 +51,7 @@ Citizen.CreateThread(function()
             time = 500
             vehicle = GetVehiclePedIsIn(PlayerPedId(-1), false)
         else
-            timoe = 1000
+            time = 1000
         end
     Citizen.Wait(time)	
     end
